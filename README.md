@@ -1,1 +1,1 @@
-# some-encrypt-algoritim
+# some-decrypt-algoritim
